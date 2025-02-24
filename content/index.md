@@ -14,3 +14,4 @@ Other printers to look at:
 [Ender 3 V3 series](https://store.creality.com/collections/ender-series-3d-printer?spm=..product_fafd7f3c-344b-4298-b2dd-7e2a361430ad.breadcrumbs_1.1&spm_prev=..product_accf228c-979f-450e-90b4-4d88e008979f.nav_link_store_1.1) - Good bang for your buck. Supposedly less work and works really well out of the box (though I think I've done the hard part with my printer).
 
 [Prusa Printers](https://www.prusa3d.com/category/3d-printers/) - More expensive, but are also known as workhorses
+

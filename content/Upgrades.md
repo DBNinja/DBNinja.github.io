@@ -11,22 +11,31 @@ These are the upgrades on my Ender 3 V2 and what they do. If you haven't seen th
 
 [BLTouch](https://www.amazon.com/ANTCLABS-BLTouch-Leveling-Premium-Extension/dp/B076PQG1FF?dib=eyJ2IjoiMSJ9.enNlsF4bS0PfK42BMAZEHKEKb2uNaBNlj8WaMTmZfLu6n4FKrjMpCP6Nkapc4vsCiyVwOJdz2XXwRXP852mCvwZXvgbRC4Wx3vm_9N3V2IzRnX9r04bWNsZLVaKg0EEncv-j2pQoB0D7I_qBxMh-FXB5AFiYOBb7lafbEOmK14_t7tirf9J5E4IiDYa1gV7CZhpQ4ipZZS-ChjGnfR2Ocsku51PoZFHbAK9r4Mg4cEE.-nPhW5NK-HrRtHtER9hWweZs2qD6SeJY35LVDrS4wYY&dib_tag=se&keywords=bltouch&qid=1740336082&sr=8-4)
 - Allows for autoleveling of the bed
+![[IMG_20250225_195451-EDIT.jpg|150]]
+
+
+
+Upgraded Z axis to [linear rails](https://dfh.fm/products/beltdrivenender3-linear-rails-kit-by-kevinakasam-black-steel?_pos=9&_sid=c612ebff4&_ss=r) and belt driven
+- Better stability/drawing on Z axis
+![[IMG_20250225_195506-EDIT.jpg|150]]
 
 [Solid bed mounts](https://www.amazon.com/dp/B07MH4JQB8?ref=ppx_yo2ov_dt_b_fed_asin_title)
 - Prevents issues with springs because we're using the BLTouch for leveling
 
-Upgraded Z axis to [linear rails](https://dfh.fm/products/beltdrivenender3-linear-rails-kit-by-kevinakasam-black-steel?_pos=9&_sid=c612ebff4&_ss=r) and belt driven
-- Better stability/drawing on Z axis
-
 [Magnetic Bed ](https://www.amazon.com/dp/B0CKXNQBVB?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) and PEI sheet
 - Easy to clean and remove prints
 - Better adhesion
+![[IMG_20250225_195555-EDIT-1.jpg|150]]
+
 
 [Voxel Bento Box 2](https://voxelpla.com/products/bento-box?variant=44537975537882) with 4028 (high flow) fans (I could have manually printed this though)
 - Filters out VOCs if you're using the enclosure
+![[IMG_20250225_195146.jpg|300]]
+
 
 [Enclosure](https://www.amazon.com/dp/B0D78TGY1L?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
 - Purchased so that I can print ABS/ASA (and any other materials that have fumes), and to keep smells in the container to alleviate Meiling's concerns
+
 
 [ObXidian](https://www.matterhackers.com/store/l/e3d-obxidian-wear-resistant-nozzle?rcode=RECEIPT) wear resistant nozzle
 - Less than 1kg worth of printing in PETG/PLA combined (I think it's just in PETG though)

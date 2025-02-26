@@ -1,6 +1,6 @@
 I use the [mriscoc "professional" firmware](https://github.com/mriscoc/Ender3V2S1) , but I've enabled certain configurations that have to be done in the programmer. Note that this is a "Marlin" firmware.
 
-Here's the options enabled (I can help you out if you ever need it by the way)
+Here's the options enabled.  I can help you out if you ever need it by the way (if you are not Mike this sentence does not apply to you).
 1. Support a higher temperature by using the **Volcano** AKA **T5** thermistor setting (ATC Semitec 104GT-2/104NT-4-R025H42G) 
 2. Full beeper
 3. Enable the BLTouch (with UBL bed leveling)

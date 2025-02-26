@@ -15,11 +15,13 @@ VOLCANO
 
 
 Speed Settings (You can push these if you want, it gets a little wonky if you push acceleration above 6000)
+
 ![[Pasted image 20250223160002.png]]
 
 
 
 
 Retraction Settings 
+
 ![[Pasted image 20250223155843.png]]
 

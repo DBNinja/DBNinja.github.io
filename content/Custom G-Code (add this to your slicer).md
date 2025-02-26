@@ -43,3 +43,31 @@ M107 ; turn off fan
 M84 X Y E ; disable motors
 
 ```
+
+If you're feeling spicy, you can add this to your Ending G-Code (after the last line) to let you know when a print is complete.
+```
+M300 P155 S523
+G4 P155
+M300 P139 S523
+G4 P139
+M300 P143 S523
+G4 P143
+M300 P425 S523
+G4 P425
+M300 P145 S415
+G4 P145
+M300 P138 S196
+G4 P138
+M300 P142 S185
+G4 P142
+M300 P425 S466
+G4 P425
+M300 P157 S523
+G4 P157
+M300 P139 S0
+G4 P139
+M300 P143 S466
+G4 P143
+M300 P1292 S523
+G4 P1292
+```

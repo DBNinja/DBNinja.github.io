@@ -37,6 +37,7 @@ The software I use: https://www.prusa3d.com/prusaslicer/
 # Remy's Getting Started Guide
 
 So this is what everyone thinks the 3D printer process looks like (and some printers like Bambu get close):
+
 ![[Pasted image 20250225212502.png]]
 However, the process usually looks more like the below, assuming things go smoothly. 
 

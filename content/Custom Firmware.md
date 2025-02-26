@@ -11,9 +11,9 @@ Here's the options enabled.  I can help you out if you ever need it by the way (
 
 
  Note that my firmware has a special configuration with the following options (I'll help you out if you ever need it)
-		- Support a higher temperature by using the **Volcano** AKA **T5** thermistor setting (ATC Semitec 104GT-2/104NT-4-R025H42G) 
-		- Full beeper
-		- Enable the BLTouch (with UBL bed leveling)
-		- Linear Advance Enabled
-		- Input Shaping Enabled
-		- [MPC Enabled](https://github.com/mriscoc/Ender3V2S1/wiki/Model-Predictive-Temperature-Control-(MPC) (better temperature control than PID)
+- Support a higher temperature by using the **Volcano** AKA **T5** thermistor setting (ATC Semitec 104GT-2/104NT-4-R025H42G) 
+- Full beeper
+- Enable the BLTouch (with UBL bed leveling)
+- Linear Advance Enabled
+- Input Shaping Enabled
+- [MPC Enabled](https://github.com/mriscoc/Ender3V2S1/wiki/Model-Predictive-Temperature-Control-(MPC) (better temperature control than PID)

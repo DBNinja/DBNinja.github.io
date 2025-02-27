@@ -3,11 +3,11 @@ title: Custom G-Code
 description: G-Code I added in PrusaSlicer for my modded Ender 3v2
 draft: "false"
 ---
+This page is for my recommended starting and ending G-Code to put into your slicer. Starting G-Code basically loads the bed levelling program and adds a "priming" line to get the filament flow started. The ending G-Code "parks" the filament extruder in a more convenient location. You can set these up in your slicer's printer settings (in PrusaSlicer you need to turn on advanced mode). 
 
+### Starting G-Code
 
-Starting G-Code
-
-```
+```gcode
 G90 ; use absolute coordinates
 M83 ; extruder relative mode
 M104 S150 ; set temporary nozzle temp to prevent oozing during homing
@@ -31,8 +31,8 @@ G92 E0
 ```
 
 
-Ending G-Code
-```
+### Ending G-Code
+```gcode
 {if max_layer_z < max_print_height}G1 Z{z_offset+min(max_layer_z+2, max_print_height)} F600 ; Move print head up{endif}
 G1 X5 Y{print_bed_max[1]*0.85} F{travel_speed*60} ; present print
 {if max_layer_z < max_print_height-10}G1 Z{z_offset+min(max_layer_z+70, max_print_height-10)} F600 ; Move print head further up{endif}
@@ -45,7 +45,8 @@ M84 X Y E ; disable motors
 ```
 
 If you're feeling spicy, you can add this to your Ending G-Code (after the last line) to let you know when a print is complete.
-```
+### Extra Ending G-Code
+```gcode 
 M300 P155 S523
 G4 P155
 M300 P139 S523
